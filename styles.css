@@ -12,8 +12,12 @@ body {
 
 .description-text {
     text-align: center;
-    color: #DDD;
+    color: #fff;
     font-size: 26px;
     font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p, h1, h2, h3, li {
     font-family: Arial, Helvetica, sans-serif;
 }
